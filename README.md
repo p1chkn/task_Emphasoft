@@ -1,6 +1,7 @@
 ## task_Emphasoft
 
 Тестовое задание для Emphasoft
+
 Необходимые зависимости указаны в файле requirements.txt
 
 ## CRUD для USERS 
